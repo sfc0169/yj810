@@ -1,11 +1,11 @@
 {
-  "name": "rape-senpai",
+  "name": "click-game",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "npx next dev",
+    "build": "npx next build",
+    "start": "npx next start"
   },
   "dependencies": {
     "bootstrap": "^5.3.2",
